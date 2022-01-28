@@ -1,0 +1,85 @@
+/*Обнуление*/
+*,
+*::before,
+*::after{
+	margin: 0;
+	padding: 0;	
+	border: 0;
+}
+li {
+	list-style: none;
+}
+a,
+a:visited {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: none;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-weight: inherit;
+	font-size: inherit;
+}
+img {
+	vertical-align: top;
+}
+/*Обнуление*/
+
+/*Стили*/
+h1{
+	color:teal
+}
+
+h2{
+	color: teal
+}
+
+p{
+	color: gray
+}
+
+span{
+	color: red
+}
+
+p span{
+	color: orange
+}
+
+.paragraph{
+	color: green
+}
+
+.paragraph-text{
+	color: greenyellow
+}
+
+#chapter1{
+	color:blue
+}
+
+#chapter2{
+	color:blue
+}
+
+#chapter3{
+	color:blue
+}
+
+div{
+	color:royalblue
+}
+
+.block{
+	color:springgreen
+}
+
+.block1{
+	color:yellowgreen
+}
+/*Стили*/
